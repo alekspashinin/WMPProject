@@ -56,4 +56,8 @@ public class Window {
         this.WindowStatus = WindowStatus;
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
 }
